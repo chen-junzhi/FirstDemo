@@ -46,6 +46,5 @@ app.listen(80,function(err){
         console.log(err);
     }else{
         console.log("服务器启动成功");
-    }
-
+    };
 })
